@@ -1,6 +1,7 @@
 {"10.90.17.158",//Sune s10
 "10.90.17.147", //Sune s7
 "10.90.17.161", //Sune old laptop (Java)
-"10.90.17.151" //Sune s8
+"10.90.17.151", //Sune s8
+"10.90.17.184"  //Sune Nokia 3.4
 };
 //Please remember to add a comma
