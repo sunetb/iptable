@@ -5,5 +5,6 @@
 "10.90.17.184",  //Sune Nokia 3.4
 "10.90.17.133", //Anne-Thea s8
 "10.90.17.135", // Kata OnePlus Nord 
+"10.90.17.141", //Rasmus S20+
 };
 //Please remember to add a comma
