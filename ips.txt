@@ -6,5 +6,6 @@
 "10.90.17.133", //Anne-Thea s8
 "10.90.17.135", // Kata OnePlus Nord 
 "10.90.17.141", //Rasmus S20+
+"10.0.2.16", //Simone
 };
 //Please remember to add a comma
