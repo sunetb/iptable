@@ -1,5 +1,5 @@
-{"10.90.17.151" //Sune s8
-
+{"10.90.17.151", //Sune s8
+"10.90.17.43", // Nikolaj
 
 };
 //Please remember to add a comma
