@@ -3,6 +3,7 @@
 "10.90.17.44", // Laust
 "10.90.17.61" //Daniel
 "10.90.17.109" // Matus 
+"10.90.17.38" // Kristoffer
 
 };
 //Please remember to add a comma
